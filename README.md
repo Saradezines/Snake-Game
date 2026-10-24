@@ -1,7 +1,5 @@
 SnakeGameProject
 A desktop Snake game written in C# with Windows Forms, created as an Object-Oriented Programming assignment.
-Student: Sara Fatima
-Roll No: FA25-BSE-077
 Course: Object Oriented Programming
 ---
 1. Visual Studio Version Used
